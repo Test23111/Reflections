@@ -10,6 +10,7 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	compare the differences between it and the HEAD
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
@@ -21,3 +22,8 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	For example if i would like to make a different version of my project like use another language or make another play mode
+	but i don't want these changes to be part of the working app, branches would be helpful because they would divide the
+	different versions of the app i wouldl ike to test
