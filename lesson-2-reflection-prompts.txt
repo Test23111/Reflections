@@ -1,7 +1,12 @@
 What happens when you initialize a repository? Why do you need to do it?
+	When i initialize a repository a folder named .git is made and if there are files in the directory they are 
+	automatically marked as untracked. I need to do this in ored to tell git that I want to make a repository there 
+	
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+	the staging area can show differences it is like a buffer for changes you want to try but don't want to commit yet
+	
 
 How can you use the staging area to make sure you have one commit per logical
 change?
