@@ -16,9 +16,12 @@ What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
+	makes it more clear by showing which comes from which branch 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	The result is updated branch witch the merged branch and all its changes into one, the old branch is deleted we represent it in the diagram the way we do because
+	each branch has separate commits we might want to see or access 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
