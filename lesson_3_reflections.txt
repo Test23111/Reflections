@@ -38,4 +38,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+	I would want to make changes in separate branch if I want to test something which i don't want to implement yet
+	or for example if i first need to consult with someone about the changes i would like to implement.
+	This benefits me because i would always have a copy which is approved of all the people working there (master)
+	and I can freely experiment on my branch without messing with the master or make changes unapproved by 
+	the others. 
